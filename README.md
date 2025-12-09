@@ -73,12 +73,16 @@ certUtil -hashfile <machine_name>.vdi sha1
 ```
 
 **Linux**
-``terminal
+
+```cmd
 sha1sum rocky_serv.vdi
+```
 
 **Mac**
-``terminal
+
+```cmd
 shasum rocky_serv.vdi
+```
 
 ## Resources
 
